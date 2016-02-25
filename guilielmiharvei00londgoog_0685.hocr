@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./guilielmiharvei00londgoog_0685.png"; bbox 0 0 4393 6313; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 782 3169 896 3196">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 782 3169 896 3196">
+     <span class='ocr_line' id='line_1_1' title="bbox 782 3169 896 3196; baseline 0 -25"><span class='ocrx_word' id='word_1_1' title='bbox 782 3173 819 3196; x_wconf 36' lang='grc' dir='ltr'>Ψ</span> <span class='ocrx_word' id='word_1_2' title='bbox 894 3169 896 3171; x_wconf 10' lang='grc' dir='ltr'>μ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 582 3258 1922 4149">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 582 3258 1922 4149">
+     <span class='ocr_line' id='line_1_2' title="bbox 981 3258 1520 3355; baseline 0 -31"><span class='ocrx_word' id='word_1_3' title='bbox 981 3258 1520 3355; x_wconf 64' lang='lat' dir='ltr'><strong>DIPLQMA</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 582 3446 1922 3585; baseline -0.007 -50"><span class='ocrx_word' id='word_1_4' title='bbox 582 3468 1232 3585; x_wconf 56' lang='lat' dir='ltr'><strong>ACADEMgAE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1282 3446 1922 3554; x_wconf 67' lang='lat' dir='ltr'>PATAV&#39;INAE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 685 3620 1827 3787; baseline 0.001 -44"><span class='ocrx_word' id='word_1_6' title='bbox 685 3620 1287 3763; x_wconf 55' lang='lat' dir='ltr'>vaiffiLMQ</span> <span class='ocrx_word' id='word_1_7' title='bbox 1330 3668 1693 3787; x_wconf 60' lang='lat' dir='ltr'>HARVE</span> <span class='ocrx_word' id='word_1_8' title='bbox 1709 3680 1827 3752; x_wconf 85' lang='lat'>10</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 768 3888 1754 3993; baseline 0 -41"><span class='ocrx_word' id='word_1_9' title='bbox 768 3888 976 3961; x_wconf 66' lang='lat' dir='ltr'>PRO}</span> <span class='ocrx_word' id='word_1_10' title='bbox 1019 3888 1754 3993; x_wconf 69' lang='lat' dir='ltr'><strong>DOCTQRATVS</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 701 4009 1837 4149; baseline -0.001 -4"><span class='ocrx_word' id='word_1_11' title='bbox 701 4083 820 4146; x_wconf 78' lang='lat' dir='ltr'>IN</span> <span class='ocrx_word' id='word_1_12' title='bbox 866 4009 1417 4149; x_wconf 58' lang='lat' dir='ltr'>MEDICINA</span> <span class='ocrx_word' id='word_1_13' title='bbox 1468 4082 1837 4148; x_wconf 72' lang='lat' dir='ltr'>GRADV</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 948 4266 1598 4359">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 948 4266 1598 4359">
+     <span class='ocr_line' id='line_1_7' title="bbox 948 4266 1598 4359; baseline -0.008 -6"><span class='ocrx_word' id='word_1_14' title='bbox 948 4266 1598 4359; x_wconf 35' lang='lat' dir='ltr'>CONCEsvat</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
